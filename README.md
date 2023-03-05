@@ -8,4 +8,5 @@
 
 ### 3. You can also [add IPA source in playcover](https://www.bilibili.com/video/BV18v4y1r7qq/?spm_id_from=333.337.search-card.all.click&vd_source=1a4ea93e7ce2e9d7a3a55c213b1fee7a)
 
+![image](https://user-images.githubusercontent.com/96930989/222936711-4bb0a498-fcc2-4e04-8200-7524721719cc.png)
 
